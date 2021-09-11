@@ -7,7 +7,7 @@ Initial Function()
 
 Initial FeatureOne()
 {
-  //Sample Code
+  //Sample Code for feature one
 }
 
 Initial Security()
