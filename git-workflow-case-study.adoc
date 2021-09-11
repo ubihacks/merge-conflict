@@ -1,13 +1,18 @@
-Common console commands: 
- cd - change directory
- mkdir - make directory
- ls - view the files/folders in directory
- 
+
 --------------------------------------------  
- BEGIN WORKFLOW
--------------------------------------------- 
+  Common console commands:
+		cd - change directory
+  mkdir - make directory
+ 	ls - view the files/folders in directory
+--------------------------------------------  
+
+BEGIN WORKFLOW
+
+--------------------------------------------  
 Clone the Repo to local machine:
- $ git clone <remote-repo-url>
+
+     $ git clone <remote-repo-url>
+--------------------------------------------  
  
 There will be two branchs (master, dev) Make sure the local branchs is up-to-date:
  $ git pull origin master
